@@ -1,0 +1,17 @@
+html {
+  font-size: 100%;
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/00/04/53/9556248b4747950.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  margin: 0px;
+  font-family: "Arvo", serif;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr;
+}
